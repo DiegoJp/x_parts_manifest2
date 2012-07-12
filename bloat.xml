@@ -1,0 +1,252 @@
+<bloat_list>
+	<bloat firmware="4.1.B.0.431">	    
+		<app>	    
+			<name>Ant Radio Service</name>
+			<description>Stock ARC ICS Ant Radio Service</description>
+			<files>
+				<file filename="antradioservice.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Liveware Manager</name>
+			<description>Stock ARC ICS Liveware Manager </description>
+			<files>
+				<file filename="livewaremanager.apk" location="system/app/"  />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Timescape</name>
+			<description>Stock ICS Default Timescape APK's Only</description>
+			<files>
+				<file filename="TimescapeSpline.apk" location="system/app/" />
+				<file filename="TimescapeWidget.apk" location="system/app/" />
+				<file filename="EventStream.apk" location="system/app/" />
+				<file filename="EventStreamPluginCallLog.apk" location="system/app/" />
+				<file filename="EventStreamPluginTelephony.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Neoreader</name>
+			<description>Stock ICS Neoreader App</description>
+			<files>
+				<file filename="neoreader.apk" location="system/app/" />	
+			</files>
+		</app>
+		<app>	    
+			<name>OfficeSuite</name>
+			<description>Stock ICS Document Viewer</description>
+			<files>
+				<file filename="officesuite.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>TrackID</name>
+			<description>Stock GB Track ID</description>
+			<files>
+				<file filename="trackid.apk" location="system/app/" />
+			</files>
+		</app>
+	
+		<app>	    
+			<name>Digital Clock Widget</name>
+			<description>Stock ARC ICS Digital Clock Widget</description>
+			<files>
+				<file filename="DigitalClockWidget.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Analog Clock Widget</name>
+			<description>Stock ICS Analog Clock Widget</description>
+			<files>
+				<file filename="widgetanalogclock.apk" location="system/app/" />
+			</files>
+		</app>	
+		<app>	    
+			<name>Stock Calendar Widget</name>
+			<description>Stock ICS Calendar Widget</description>
+			<files>
+				<file filename="widgetcalendar.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Digital Clock Widget</name>
+			<description>Stock ICS Analog Clock</description>
+			<files>
+				<file filename="widgetdigitalclock.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Toggle Widget</name>
+			<description>Stock ICS Toggle Widget</description>
+			<files>
+				<file filename="widgetonoff.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Timer Widget</name>
+			<description>Stock ICS Timer Widget</description>
+			<files>
+				<file filename="widgettimer.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Timer Widget</name>
+			<description>Stock ICS Timer Widget</description>
+			<files>
+				<file filename="widgetworldclock.apk" location="system/app/" />
+			</files>
+		</app>
+	
+		<app>	    
+			<name>Sony Chinese Keyboard</name>
+			<description>Stock ICS Chinese Keyboard</description>
+			<files>
+				<file filename="chinesetextinput.apk" location="system/app/" />	
+			</files>
+		</app>
+	
+		<app>	    
+			<name>Sony Japanese Keyboard</name>
+			<description>Stock ICS Japanese Keyboard and Themes</description>
+			<files>
+			  <file filename="JapaneseIME.apk" location="system/app/" />
+			  <file filename="POBoxSknPink.apk" location="system/app/" />
+			  <file filename="POBoxSknWood.apk" location="system/app/" />
+			</files>
+		</app>
+	
+		<app>	    
+			<name>Sony Bloatware</name>
+			<description>Stock ICS Bloatware not realy sure what alot of this does, Other than chew up ram!</description>
+			<files>
+			  <file filename="OmaDatasyncService.apk" location="system/app/"  />
+			  <file filename="SemcCrashMonitor.apk" location="system/app/" />
+			</files>
+		</app>
+	</bloat>
+	<bloat firmware="4.1.A.0.562">	    
+		<app>	    
+			<name>Ant Radio Service</name>
+			<description>Stock ARC ICS Ant Radio Service</description>
+			<files>
+				<file filename="antradioservice.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Liveware Manager</name>
+			<description>Stock ARC ICS Liveware Manager </description>
+			<files>
+				<file filename="livewaremanager.apk" location="system/app/"  />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Timescape</name>
+			<description>Stock ICS Default Timescape APK's Only</description>
+			<files>
+				<file filename="TimescapeSpline.apk" location="system/app/" />
+				<file filename="TimescapeWidget.apk" location="system/app/" />
+				<file filename="EventStream.apk" location="system/app/" />
+				<file filename="EventStreamPluginCallLog.apk" location="system/app/" />
+				<file filename="EventStreamPluginTelephony.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Neoreader</name>
+			<description>Stock ICS Neoreader App</description>
+			<files>
+				<file filename="neoreader.apk" location="system/app/" />	
+			</files>
+		</app>
+		<app>	    
+			<name>OfficeSuite</name>
+			<description>Stock ICS Document Viewer</description>
+			<files>
+				<file filename="officesuite.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>TrackID</name>
+			<description>Stock GB Track ID</description>
+			<files>
+				<file filename="trackid.apk" location="system/app/" />
+			</files>
+		</app>
+	
+		<app>	    
+			<name>Digital Clock Widget</name>
+			<description>Stock ARC ICS Digital Clock Widget</description>
+			<files>
+				<file filename="DigitalClockWidget.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Analog Clock Widget</name>
+			<description>Stock ICS Analog Clock Widget</description>
+			<files>
+				<file filename="widgetanalogclock.apk" location="system/app/" />
+			</files>
+		</app>	
+		<app>	    
+			<name>Stock Calendar Widget</name>
+			<description>Stock ICS Calendar Widget</description>
+			<files>
+				<file filename="widgetcalendar.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Digital Clock Widget</name>
+			<description>Stock ICS Analog Clock</description>
+			<files>
+				<file filename="widgetdigitalclock.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Toggle Widget</name>
+			<description>Stock ICS Toggle Widget</description>
+			<files>
+				<file filename="widgetonoff.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Timer Widget</name>
+			<description>Stock ICS Timer Widget</description>
+			<files>
+				<file filename="widgettimer.apk" location="system/app/" />
+			</files>
+		</app>
+		<app>	    
+			<name>Stock Timer Widget</name>
+			<description>Stock ICS Timer Widget</description>
+			<files>
+				<file filename="widgetworldclock.apk" location="system/app/" />
+			</files>
+		</app>
+	
+		<app>	    
+			<name>Sony Chinese Keyboard</name>
+			<description>Stock ICS Chinese Keyboard</description>
+			<files>
+				<file filename="chinesetextinput.apk" location="system/app/" />	
+			</files>
+		</app>
+	
+		<app>	    
+			<name>Sony Japanese Keyboard</name>
+			<description>Stock ICS Japanese Keyboard and Themes</description>
+			<files>
+			  <file filename="JapaneseIME.apk" location="system/app/" />
+			  <file filename="POBoxSknPink.apk" location="system/app/" />
+			  <file filename="POBoxSknWood.apk" location="system/app/" />
+			</files>
+		</app>
+	
+		<app>	    
+			<name>Sony Bloatware</name>
+			<description>Stock ICS Bloatware not realy sure what alot of this does, Other than chew up ram!</description>
+			<files>
+			  <file filename="OmaDatasyncService.apk" location="system/app/"  />
+			  <file filename="SemcCrashMonitor.apk" location="system/app/" />
+			</files>
+		</app>
+	</bloat>
+</bloat_list>

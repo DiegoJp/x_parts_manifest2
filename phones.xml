@@ -1,0 +1,82 @@
+<phone_List>
+		<phone>
+		<model>LT15</model>
+		<name>Xperia Arc</name>
+		<ev>1</ev>
+		</phone>
+		
+		<phone>
+		<model>LT18</model>
+		<name>Xperia Arc S</name>
+		<ev>1</ev>
+		</phone>
+		
+		<phone>
+		<model>LT26</model>
+		<name>Xperia S</name>
+		<ev>2</ev>
+		</phone>
+
+		<phone>
+		<model>R800</model>
+		<name>Play</name>
+		<ev>1</ev>
+		</phone>
+		
+		<phone>
+		<model>MT15</model>
+		<ev>1</ev>
+		</phone>
+		
+		<phone>
+		<model>SO-01C</model>
+		<ev>1</ev>
+		</phone>
+		
+		<phone>
+		<model>ST15</model>
+		<ev>1</ev>
+		</phone>
+		
+		<phone>
+		<model>ST18</model>
+		<ev>1</ev>
+		</phone>
+		
+		<phone>
+		<model>MT11</model>
+		<name>Neo V</name>
+		<ev>2</ev>
+		</phone>
+		
+		<phone>
+		<model>MK16</model>
+		<ev>1</ev>
+		</phone>
+
+		<phone>
+		<model>S51SE</model>
+		<ev>2</ev>
+		</phone>
+		
+		<phone>
+		<model>SK17</model>
+		<ev>2</ev>
+		</phone>
+		
+		<phone>
+		<model>ST17</model>
+		<ev>2</ev>
+		</phone>
+		
+		<phone>
+		<model>SO-02C</model>
+		<ev>2</ev>
+		</phone>
+		
+		<phone>
+		<model>SO-03C</model>
+		<ev>2</ev>
+		</phone>
+
+</phone_list>

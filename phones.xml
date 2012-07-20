@@ -4,7 +4,7 @@
 		<name>Xperia Arc</name>
 		<ev>1</ev>
 		<recoveries>
-		<rec ver="CWM 5.5.0.4\nICS Recovery\nBy pvyParts" os="15" url="https://www.dropbox.com/s/0tuzbnqm018huel/recovery.tar"></rec>
+			<rec ver="CWM 5.5.0.4\nICS Recovery\nBy pvyParts" os="15" url="https://www.dropbox.com/s/0tuzbnqm018huel/recovery.tar"></rec>
 		</recoveries>
 		</phone>
 		
@@ -12,6 +12,9 @@
 		<model>LT18</model>
 		<name>Xperia Arc S</name>
 		<ev>1</ev>
+		<recoveries>
+			<rec ver="CWM 5.5.0.4\nICS Recovery\nBy pvyParts" os="15" url="https://www.dropbox.com/s/0tuzbnqm018huel/recovery.tar"></rec>
+		</recoveries>
 		</phone>
 		
 		<phone>

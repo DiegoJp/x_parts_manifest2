@@ -155,6 +155,7 @@
 		<name>WT19</name>
 		<ev>1</ev>
 		<recoveries>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
 	</recoveries>
 		</phone>

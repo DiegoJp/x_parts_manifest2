@@ -4,8 +4,8 @@
 		<name>Xperia Arc</name>
 		<ev>1</ev>
 		<recoveries>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
 		</recoveries>
 		</phone>
 		
@@ -14,8 +14,8 @@
 		<name>Xperia Arc S</name>
 		<ev>1</ev>
 		<recoveries>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
 		</recoveries>
 		</phone>
 		
@@ -24,8 +24,8 @@
 		<name>Play</name>
 		<ev>1</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 		</phone>
 		
@@ -35,8 +35,8 @@
 
 		<ev>1</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 
 		</phone>
@@ -46,8 +46,8 @@
 		<name>SO-01C</name>
 		<ev>1</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 
 		</phone>
@@ -58,8 +58,8 @@
 
 		<ev>1</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 
 		</phone>
@@ -69,8 +69,8 @@
 		<name>ST18</name>
 		<ev>1</ev>		
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 
 		</phone>
@@ -80,8 +80,8 @@
 		<name>Neo V</name>
 		<ev>2</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 
 		</phone>
@@ -91,8 +91,8 @@
 		<name>MK16</name>
 		<ev>1</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 
 		</phone>
@@ -102,8 +102,8 @@
 		<name>S51SE</name>
 		<ev>2</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 
 		</phone>
@@ -113,8 +113,8 @@
 		<name>SK17</name>
 		<ev>2</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 		</phone>
 		
@@ -123,8 +123,8 @@
 		<name>sk17</name>
 		<ev>2</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 		</phone>
 		
@@ -133,8 +133,8 @@
 		<name>Sk17</name>
 		<ev>2</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 		</phone>
 		
@@ -143,8 +143,8 @@
 		<name>ST17</name>
 		<ev>2</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 
 		</phone>
@@ -154,8 +154,8 @@
 		<name>S0-02C</name>
 		<ev>2</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 	</recoveries>
 
 		</phone>
@@ -165,8 +165,8 @@
 		<name>S0-03C</name>
 		<ev>2</ev>
 		<recoveries>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
 		</recoveries>
 	</phone>
 	<phone>
@@ -174,8 +174,8 @@
 		<name>WT19</name>
 		<ev>1</ev>
 		<recoveries>
-			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://goo.im/devs/pvyParts/xparts/pvy_ics/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
-			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://goo.im/devs/pvyParts/xparts/nan_gb/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
+			<rec name="pvyParts 5.5.0.4 Recovery" ver="CWM 5.5.0.4$nStock ICS Recovery$nFor 2011 Xperia Devices$nBuilt By pvyParts$nOn July 6 2012" os="15" url="http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/pvy/recovery.tar" md5="ad1bd2aaa17636e7f3eab126d99ef45c"></rec>
+			<rec name="nobodyAtall 5.0.2.7 Recovery" ver="CWM 5.0.2.7_r2$nStock GB Recovery$nFor 2011 Xperia Devices$nBuilt By nobodyAtall" os="10" url="http://www.blownco.com/downloads/download.php?http://www.blownco.com/downloads/download.php?file=DEVS/pvyParts/CWM/NaA/recovery.tar" md5="51a3654e0a41b044b6d8f4a95067635a"></rec>
 	</recoveries>
 		</phone>
 </phone_list>
